@@ -1,0 +1,216 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1447938867",
+  "source": {
+   "name": "VCheck1",
+   "showName": false,
+   "instructions": "",
+   "points": "2",
+   "showValues": false,
+   "text": "A variable is mainly a <<<storage>>> location with some type of identifying <<<name>>>.",
+   "tokens": {
+    "blank": [
+     "storage",
+     "name"
+    ],
+    "text": [
+     "A variable is mainly a ",
+     0,
+     " location with some type of identifying ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3505154634",
+  "source": {
+   "name": "VCheck2",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "A variable holds information that can be used for <<<manipulation>>> at later time.",
+   "tokens": {
+    "blank": [
+     "manipulation"
+    ],
+    "text": [
+     "A variable holds information that can be used for ",
+     0,
+     " at later time."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2252626010",
+  "source": {
+   "name": "VCheck3",
+   "showName": false,
+   "instructions": "Which one of these would NOT be a variable using the recipe example. ",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "45a75979-0d5d-13a4-ece6-a3bfdea6ff6e",
+     "correct": true,
+     "answer": "Boil Water"
+    },
+    {
+     "_id": "204886c3-4aaa-3f39-4fb2-05488c07d5f8",
+     "correct": false,
+     "answer": "1/2 cup butter"
+    },
+    {
+     "_id": "aaafa99e-3037-7d3e-20f0-0170c4e05e3e",
+     "correct": false,
+     "answer": "1/4 cup milk"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1089845397",
+  "source": {
+   "name": "DCheck1",
+   "showName": false,
+   "instructions": "Select all of the integers",
+   "points": "2",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "58dd16a3-2e64-eef3-609e-895c629b5796",
+     "correct": true,
+     "answer": "-2"
+    },
+    {
+     "_id": "253b096b-3124-eb91-1588-fe7d9d757de1",
+     "correct": false,
+     "answer": "5.6"
+    },
+    {
+     "_id": "2d11bb34-0baf-923a-175c-28f9ade7a5ce",
+     "correct": false,
+     "answer": "-1.256"
+    },
+    {
+     "_id": "3b894aad-e791-f15f-3f80-54f0f63c6a9c",
+     "correct": true,
+     "answer": "30"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2598191164",
+  "source": {
+   "name": "DCheck2",
+   "showName": false,
+   "instructions": "In your math class you may refer to a float as a decimal number both positive and negative. ",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "b826ec2b-1272-be41-8982-cbd910c265f6",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "7667319d-10a8-3f10-f8f7-cd6d7a5e60e7",
+     "correct": false,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2918791631",
+  "source": {
+   "name": "DCheck3",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "A <<<string>>> is a series of letters(characters) together",
+   "tokens": {
+    "blank": [
+     "string"
+    ],
+    "text": [
+     "A ",
+     0,
+     " is a series of letters(characters) together"
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3806588265",
+  "source": {
+   "name": "DCheck4",
+   "showName": false,
+   "instructions": "Which is the correct way to use the variable name in a print statement?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "4423199d-6847-c8f5-30a3-234853431b20",
+     "correct": true,
+     "answer": "print('your name is %s' % name)"
+    },
+    {
+     "_id": "9c3db817-1eed-a6e9-d316-dfa88c1b1b03",
+     "correct": false,
+     "answer": "print('your name is %d' % name)"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-845992561",
+  "source": {
+   "name": "DCheck5",
+   "showName": false,
+   "instructions": "Which is **NOT** a correct print statement. (Assume age and name are variables)",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "4303b569-f3be-03c1-bf00-c1088cf22ee6",
+     "correct": false,
+     "answer": "print(5)"
+    },
+    {
+     "_id": "0a96a499-9e13-366d-3656-574acf86e42a",
+     "correct": false,
+     "answer": "print(age)"
+    },
+    {
+     "_id": "4c6cf232-2838-7744-438e-12c3ff2da82d",
+     "correct": false,
+     "answer": "print (name,age)"
+    },
+    {
+     "_id": "709c4a60-36b1-b185-0a1c-8a91a6412581",
+     "correct": true,
+     "answer": "print(my name is sally)"
+    }
+   ]
+  }
+ }
+]
